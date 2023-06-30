@@ -1,5 +1,3 @@
-// 알고리듬분석_01분반_22100768_한나린_HW4
-
 /*  REFERENCES
     (1) Lecture slide Chapter 6 : p. 13-28
     (2) Hyperscale AI ChatGPT
