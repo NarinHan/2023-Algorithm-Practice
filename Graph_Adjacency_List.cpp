@@ -1,5 +1,3 @@
-// 알고리듬분석_01분반_22100768_한나린
-
 /*  REFERENCES
     (1) CPP file named 'graph_const_7.cpp' professor provided
     (2) Blog (malloc, calloc, new) : https://seulgit.tistory.com/81
